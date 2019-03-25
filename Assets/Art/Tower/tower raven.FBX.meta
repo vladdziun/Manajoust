@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 41fe56a86e93c364388e326e6bcd3bb6
+timeCreated: 1484445826
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone001tower_raven
+    100002: Bone002tower_raven
+    100004: Bone003tower_raven
+    100006: Bone004tower_raven
+    100008: Bone005tower_raven
+    100010: Bone006tower_ravenY
+    100012: Bone007tower_raven
+    100014: Bone008tower_raven
+    100016: Bone009tower_raven
+    100018: Bone010tower_raven
+    100020: Bone011tower_ravenY
+    100022: Bone012tower_raven_L
+    100024: Bone012tower_raven_P
+    100026: Bone013tower_raven_L
+    100028: Bone013tower_raven_P
+    100030: Bone014tower_raven_L
+    100032: Bone014tower_raven_P
+    100034: Bone015tower_raven_L
+    100036: Bone015tower_raven_P
+    100038: Bone016tower_raven_LY
+    100040: Bone016tower_raven_PY
+    100042: Bone01tower_raven_kristal
+    100044: Bone02tower_raven_kristalY
+    100046: //RootNode
+    100048: tower_raven
+    400000: Bone001tower_raven
+    400002: Bone002tower_raven
+    400004: Bone003tower_raven
+    400006: Bone004tower_raven
+    400008: Bone005tower_raven
+    400010: Bone006tower_ravenY
+    400012: Bone007tower_raven
+    400014: Bone008tower_raven
+    400016: Bone009tower_raven
+    400018: Bone010tower_raven
+    400020: Bone011tower_ravenY
+    400022: Bone012tower_raven_L
+    400024: Bone012tower_raven_P
+    400026: Bone013tower_raven_L
+    400028: Bone013tower_raven_P
+    400030: Bone014tower_raven_L
+    400032: Bone014tower_raven_P
+    400034: Bone015tower_raven_L
+    400036: Bone015tower_raven_P
+    400038: Bone016tower_raven_LY
+    400040: Bone016tower_raven_PY
+    400042: Bone01tower_raven_kristal
+    400044: Bone02tower_raven_kristalY
+    400046: //RootNode
+    400048: tower_raven
+    4300000: tower_raven
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: tower_raven
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone001tower_raven
+        weight: 1
+      - path: Bone001tower_raven/Bone002tower_raven
+        weight: 1
+      - path: Bone001tower_raven/Bone002tower_raven/Bone003tower_raven
+        weight: 1
+      - path: Bone001tower_raven/Bone002tower_raven/Bone003tower_raven/Bone004tower_raven
+        weight: 1
+      - path: Bone001tower_raven/Bone002tower_raven/Bone003tower_raven/Bone004tower_raven/Bone005tower_raven
+        weight: 1
+      - path: Bone001tower_raven/Bone002tower_raven/Bone003tower_raven/Bone004tower_raven/Bone005tower_raven/Bone006tower_ravenY
+        weight: 1
+      - path: Bone001tower_raven/Bone007tower_raven
+        weight: 1
+      - path: Bone001tower_raven/Bone007tower_raven/Bone008tower_raven
+        weight: 1
+      - path: Bone001tower_raven/Bone007tower_raven/Bone008tower_raven/Bone009tower_raven
+        weight: 1
+      - path: Bone001tower_raven/Bone007tower_raven/Bone008tower_raven/Bone009tower_raven/Bone010tower_raven
+        weight: 1
+      - path: Bone001tower_raven/Bone007tower_raven/Bone008tower_raven/Bone009tower_raven/Bone010tower_raven/Bone011tower_ravenY
+        weight: 1
+      - path: Bone001tower_raven/Bone012tower_raven_L
+        weight: 1
+      - path: Bone001tower_raven/Bone012tower_raven_L/Bone013tower_raven_L
+        weight: 1
+      - path: Bone001tower_raven/Bone012tower_raven_L/Bone013tower_raven_L/Bone014tower_raven_L
+        weight: 1
+      - path: Bone001tower_raven/Bone012tower_raven_L/Bone013tower_raven_L/Bone014tower_raven_L/Bone015tower_raven_L
+        weight: 1
+      - path: Bone001tower_raven/Bone012tower_raven_L/Bone013tower_raven_L/Bone014tower_raven_L/Bone015tower_raven_L/Bone016tower_raven_LY
+        weight: 1
+      - path: Bone001tower_raven/Bone012tower_raven_P
+        weight: 1
+      - path: Bone001tower_raven/Bone012tower_raven_P/Bone013tower_raven_P
+        weight: 1
+      - path: Bone001tower_raven/Bone012tower_raven_P/Bone013tower_raven_P/Bone014tower_raven_P
+        weight: 1
+      - path: Bone001tower_raven/Bone012tower_raven_P/Bone013tower_raven_P/Bone014tower_raven_P/Bone015tower_raven_P
+        weight: 1
+      - path: Bone001tower_raven/Bone012tower_raven_P/Bone013tower_raven_P/Bone014tower_raven_P/Bone015tower_raven_P/Bone016tower_raven_PY
+        weight: 1
+      - path: Bone01tower_raven_kristal
+        weight: 1
+      - path: Bone01tower_raven_kristal/Bone02tower_raven_kristalY
+        weight: 1
+      - path: tower_raven
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
