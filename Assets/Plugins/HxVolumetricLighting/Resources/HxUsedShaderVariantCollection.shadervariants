@@ -8,7 +8,7 @@ ShaderVariantCollection:
   m_PrefabAsset: {fileID: 0}
   m_Name: HxUsedShaderVariantCollection
   m_Shaders: {}
---- !u!21 &21749800432764064
+--- !u!21 &21683048033098526
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
